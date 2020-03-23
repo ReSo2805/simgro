@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 public class TenantService {
 
     public Either<SimgroError, Tenant> createTenant(Tenant tenant) {
-        return Either.right(new Tenant("waehwadwa", "ifhesheshfse"));
+        return Either.right(new Tenant("fsfsefse", "fesfsefhsefh"));
     }
 
 

@@ -38,7 +38,4 @@ public class TenantController {
         return tenantService.findTenantById(tenantId);
     }
 
-
-
-
 }
